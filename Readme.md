@@ -1,4 +1,4 @@
-# Model Optimization — Quantization Research
+# Model Optimization :  Quantization 
 
 Post-training quantization experiments on large language models, with results published on HuggingFace under the **AxisQuant** organization.
 
