@@ -4,6 +4,9 @@ Post-training quantization experiments on large language models, with results pu
 
 Each folder is a self-contained quantization pipeline: quantize → evaluate → push to Hub.
 
+<img width="2560" height="1076" alt="image" src="https://github.com/user-attachments/assets/1d5718f3-6852-4b91-adac-2f9c4dcae430" />
+
+
 ---
 
 ## Models
